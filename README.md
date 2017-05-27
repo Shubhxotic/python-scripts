@@ -8,4 +8,5 @@ For maplt.py:-<br/>
                                     <strong>OR</strong><br/>
     Copy some address to clipboard(using ctrl+v) and then simply execute python3 maplt.py om your terminal.
   
-  
+<h2> Steps to execute tictac.py</h2>
+simply, use "python3 tictac.py" on your terminal/cmd.                             
