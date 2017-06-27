@@ -74,3 +74,4 @@ print("The Tic Tac Toe grid is as follows.Press the respective button(1 to 9) to
 list=[[1,2,3],[4,5,6],[7,8,9]]
 printing(list,3)
 chance(list,3)
+#ending
