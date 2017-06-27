@@ -59,7 +59,7 @@ def check_diagonal_wise(arr):
 	for i in range(len(arr)):
 		l.append(arr[i][i])
 		k.append(arr[i][len(arr)-1-i])
-	if((l.__contains__('  ')==False and len(l)==len(arr) and len(set(l))==1) or (len(k)==len(arr) and len(set(k))==1 and k.__contains__(' ')==False)):
+	if((l.__contains__(' ')==False and len(l)==len(arr) and len(set(l))==1) or (len(k)==len(arr) and len(set(k))==1 and k.__contains__(' ')==False)):
 		return 1
 	else:
 		return 0
